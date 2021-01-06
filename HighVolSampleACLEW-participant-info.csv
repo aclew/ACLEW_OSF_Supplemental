@@ -1,0 +1,63 @@
+aclew_id,labname,device,age_mo_round,child_sex,language,lang_percent,corpus,std_mat_ed,number_older_sibs,region
+3439,BER,lena,10,F,English,100,Seedlings,ad,1,"Rochester, NY, USA"
+1836,BER,lena,14,M,English,100,Seedlings,ad,1,"Rochester, NY, USA"
+256,BER,lena,17,M,English,100,Seedlings,cd,1,"Rochester, NY, USA"
+4889,BER,lena,7,F,English,100,Seedlings,ad,0,"Rochester, NY, USA"
+5242,BER,lena,12,F,English,100,Seedlings,ad,1,"Rochester, NY, USA"
+5980,BER,lena,7,M,English,100,Seedlings,sc,0,"Rochester, NY, USA"
+990,BER,lena,8,M,English,100,Seedlings,sc,1,"Rochester, NY, USA"
+459,BER,lena,9,F,English,100,Seedlings,sc,0,"Rochester, NY, USA"
+7928,WAR,lena,3,M,English,100,Warlaumont,sc,0,"Central Valley, California"
+2318,BER,lena,13,F,English,100,Seedlings,cd,0,"Rochester, NY, USA"
+8684,WAR,lena,3,F,English,100,Warlaumont,cd,3,"Central Valley, California"
+7117,BER,lena,15,F,English,100,Seedlings,sc,0,"Rochester, NY, USA"
+3174,WAR,lena,3,M,English_Spanish,1hr/day spanish,Warlaumont,sc,0,"Central Valley, California"
+5792,WAR,lena,3,M,English,100,Warlaumont,sc,1,"Central Valley, California"
+602,WAR,lena,3,F,English,100,Warlaumont,ad,0,"Central Valley, California"
+8602,WAR,lena,9,M,English,100,Warlaumont,cd,4,"Central Valley, California"
+9769,WAR,lena,6,M,English,100,Warlaumont,cd,0,"Central Valley, California"
+8569,ROS,lena,23,F,Spanish,100,Conicet Argentina,bhs,1,"Derqui, Metropolitan Area of Buenos Aires, ARG"
+9378,ROS,dig.rec.,17,M,Spanish,100,Conicet Argentina,hs,0,"Quilmes, Metropolitan Area of Buenos Aires, ARG"
+8340,ROS,voice,17,F,Spanish,100,Conicet Argentina,hs,0,"Quilmes, Metropolitan Area of Buenos Aires, ARG"
+5293,ROS,lena,25,M,Spanish,100,Conicet Argentina,bhs,5,"Derqui, Metropolitan Area of Buenos Aires, ARG"
+4009,ROW,lena,19,F,British English,100,LuCiD_Lang05,ad,1,Northwest England
+7132,ROW,lena,21,M,British English,100,LuCiD_Lang05,ad,2,Northwest England
+7437,ROW,lena,21,F,British English,100,LuCiD_Lang05,cd,1,Northwest England
+6648,ROW,lena,15,F,British English,100,LuCiD_Lang05,cd,0,Northwest England
+2041,ROW,lena,27,M,British English,100,LuCiD_Lang05,ad,2,Northwest England
+270,ROW,lena,11,M,British English,100,LuCiD_Lang05,cd,0,Northwest England
+2693,ROW,lena,12,F,British English,100,LuCiD_Lang05,cd,0,Northwest England
+8897,ROW,lena,25,F,British English,100,LuCiD_Lang05,sc,1,Northwest England
+851,ROW,lena,19,M,British English,100,LuCiD_Lang05,sc,0,Northwest England
+7085,ROW,lena,31,M,British English,100,LuCiD_Lang05,sc,0,Northwest England
+9733,SOD,lena,12,M,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+9106,SOD,lena,3,F,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+5134,SOD,lena,19,F,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+8496,SOD,lena,10,M,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+8560,SOD,lena,10,F,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+6045,SOD,lena,17,M,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+873,ROS,lena,8,M,Spanish,100,Conicet Argentina,ad,0,"CABA, ARG"
+2280,ROS,olympus,18,F,Spanish,100,Conicet Argentina,cd,0,"CABA, ARG"
+5456,ROS,lena,27,M,Spanish,100,Conicet Argentina,cd,1,"CABA, ARG"
+1092,ROS,olympus,14,F,Spanish,100,Conicet Argentina,cd,0,"CABA, ARG"
+9959,ROS,lena,21,F,Spanish,100,Conicet Argentina,cd,0,"CABA, ARG"
+7326,TSE,olympus,14,M,Tseltal,100,CasillasTseltal,bhs,0,"Tenejapa, Chiapas, MX"
+7176,TSE,olympus,4,M,Tseltal,100,CasillasTseltal,hs,1,"Tenejapa, Chiapas, MX"
+8179,TSE,olympus,6,F,Tseltal,100,CasillasTseltal,bhs,0,"Tenejapa, Chiapas, MX"
+7220,TSE,olympus,22,F,Tseltal,100,CasillasTseltal,hs,1,"Tenejapa, Chiapas, MX"
+2109,TSE,olympus,7,F,Tseltal,100,CasillasTseltal,bhs,0,"Tenejapa, Chiapas, MX"
+6216,TSE,olympus,27,F,Tseltal,100,CasillasTseltal,bhs,0,"Tenejapa, Chiapas, MX"
+8787,TSE,olympus,11,M,Tseltal,100,CasillasTseltal,bhs,1,"Tenejapa, Chiapas, MX"
+2625,TSE,olympus,32,F,Tseltal,100,CasillasTseltal,bhs,1,"Tenejapa, Chiapas, MX"
+643,TSE,olympus,2,M,Tseltal,100,CasillasTseltal,bhs,5,"Tenejapa, Chiapas, MX"
+3026,TSE,olympus,36,M,Tseltal,100,CasillasTseltal,bhs,2,"Tenejapa, Chiapas, MX"
+8427,YEL,olympus,1,F,Yélî Dnye,100,CasillasYeli,bhs,1,"Rossel Island, Milne Bay Province, PNG"
+4569,YEL,olympus,20,F,Yélî Dnye,100,CasillasYeli,bhs,5,"Rossel Island, Milne Bay Province, PNG"
+2977,YEL,olympus,13,F,Yélî Dnye,100,CasillasYeli,bhs,5,"Rossel Island, Milne Bay Province, PNG"
+3729,YEL,olympus,4,M,Yélî Dnye,100,CasillasYeli,bhs,5,"Rossel Island, Milne Bay Province, PNG"
+1143,YEL,olympus,8,M,Yélî Dnye,100,CasillasYeli,bhs,1,"Rossel Island, Milne Bay Province, PNG"
+6934,YEL,olympus,17,M,Yélî Dnye,100,CasillasYeli,bhs,1,"Rossel Island, Milne Bay Province, PNG"
+5019,YEL,olympus,36,M,Yélî Dnye,100,CasillasYeli,bhs,3,"Rossel Island, Milne Bay Province, PNG"
+9732,YEL,olympus,4,M,Yélî Dnye,100,CasillasYeli,hs,0,"Rossel Island, Milne Bay Province, PNG"
+3956,YEL,olympus,26,F,English_Goodenough_Misima_Yélî Dnye,45_05_05_45,CasillasYeli,bhs,0,"Rossel Island, Milne Bay Province, PNG"
+8018,YEL,olympus,9,F,Yélî Dnye,100,CasillasYeli,bhs,1,"Rossel Island, Milne Bay Province, PNG"
