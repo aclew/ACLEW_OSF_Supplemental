@@ -1,19 +1,19 @@
-﻿0,old_row,labname,homebank_id,homebank_link,aclew_id,Version_lock,LDC_round2,aclew_starter,device,age_mo_round,child_sex,language,lang_percent,corpus_narrow,corpus,std_mat_ed,mat_ed,fat_ed,std_length_of_recording,length_of_recording,start_of_recording,number_older_sibs,mother_dob,father_dob,household_size,premature,region,medical,medical_details,ses_details,CDI_concurrent,CDI_later,age_CDI_later,Comments
-1,1,TSE,CM50,NA,643,,N,Y,olympus,2,M,Tseltal,100,CasillasTseltal,CasillasTseltal,bhs,none,secondary,576,576,8:19:15,5,25,33,7,U,"Tenejapa, Chiapas, MX",N,NA,NA,N,N,N/A,
-5,5,TSE,CM38,NA,8787,,N,Y,olympus,11,M,Tseltal,100,CasillasTseltal,CasillasTseltal,bhs,secondary,secondary,563,563,8:17:56,1,23,23,4,U,"Tenejapa, Chiapas, MX",N,NA,NA,N,N,N/A,
-9,9,TSE,CM47,NA,2625,,N,Y,olympus,32,F,Tseltal,100,CasillasTseltal,CasillasTseltal,bhs,secondary,secondary,558,558,8:53:09,1,27,25,4,U,"Tenejapa, Chiapas, MX",N,NA,NA,N,N,N/A,
-11,11,SOD,101,http://media.talkbank.org/HomeBank/Password/McDivitt/0101/0wav/0101_001125.wav,9733,,,Y,lena,12,M,English,100,McDivitt,Winnipeg,bhs,bhs,unknown,733,733,7:51:52,0,21,unknown,2,N,"Winnipeg, Manitoba, Canada",N,NA,NA,Y,N,N/A,
-35,35,SOD,107,http://media.talkbank.org/HomeBank/Password/McDivitt/0107/0wav/0107_001100.wav,5223,,,Y,lena,11,M,English,100,McDivitt,Winnipeg,bhs,bhs,unknown,683,683,10:29:51,0,19,unknown,3,N,"Winnipeg, Manitoba, Canada",N,NA,NA,Y,N,N/A,
-46,46,SOD,110,NA,8560,,,Y,lena,10,F,English,100,McDivitt,Winnipeg,bhs,bhs,unknown,646,646,10:11:58,0,19,unknown,5,N,"Winnipeg, Manitoba, Canada",N,NA,NA,Y,N,N/A,
-70,71,ROS,,NA,8340,,,Y,voice,17,F,Spanish,100,Conicet Argentina,Conicet Argentina,hs,secondary,secondary,220,220,10:00:00,0,unknown,unknown,6,N,"Quilmes, Metropolitan Area of Buenos Aires, ARG",N,NA,IMP. NEIGHBOUR,N,N,N/A,the 2nd and the 3rd hours've been transcribed and annotated
-79,80,ROS,,NA,9559,,,Y,olympus,15,F,Spanish,100,Conicet Argentina,Conicet Argentina,hs,secondary,secondary,278,278,10:50:00,0,unknown,unknown,3,N,"Derqui, Metropolitan Area of Buenos Aires, ARG",N,NA,IMP. NEIGHBOUR,N,N,N/A,the 2nd and the 3rd hours've been transcribed and annotated
-109,110,ROS,,NA,5271,,,Y,lena,20,M,Spanish,100,Conicet Argentina,Conicet Argentina,ad,"university, PhD degree","ersity, Bachelor degree",238,238,17:00:00,1,unknown,unknown,4,N,"CABA, ARG",N,NA,RESIDENTIAL AREA,N,N,N/A,the 2nd and the 3rd hours've been transcribed and annotated
-195,215,ROW,,NA,3628,,,Y_SODcoding,lena,19,F,British English,100,LuCiD_Lang05,LuCiD_Lang05,sc,A Level/NVQ Level3/similar;,University degree/ HND/HNC/NVQ Level4 or 5/ Similar;,960,16:00:00,NA,2,26-30,36+,5,N,Northwest England,NA,NA,NA,Y*,Y*,18-30,
-310,337,ROW,,NA,2811,,,Y_BERcoding,lena,12,F,British English,100,LuCiD_Lang05,LuCiD_Lang05,sc,A Level/NVQ Level3/similar;,University degree/ HND/HNC/NVQ Level4 or 5/ Similar;,804,13:23:43,NA,1,21-25,26-30,5,N,Northwest England,NA,NA,NA,Y*,Y*,18-30,
-327,361,ROW,,NA,49,,,Y_BERcoding,lena,25,M,British English,100,LuCiD_Lang05,LuCiD_Lang05,cd,University degree/ HND/HNC/NVQ Level4 or 5/ Similar;,University degree/ HND/HNC/NVQ Level4 or 5/ Similar;,946,15:45:34,NA,1,31-35,31-35,4,N,Northwest England,NA,NA,NA,Y*,Y*,18-30,
-402,452,BER,,NA,713,,,Y,lena,7,M,English_German_Spanish,>75 English,Seedlings,Seedlings,ad,ad,ad,960,960,NA,0,29,34,3,N,"Rochester, NY, USA",N,NA,NA,,,,
-627,517,BER,,NA,485,,,Y,lena,12,M,English,100,Seedlings,Seedlings,sc,sc,cd,960,960,NA,0,35,44,3,N,"Rochester, NY, USA",N,NA,NA,,,,
-788,403,BER,,NA,2224,,,Y,lena,16,F,English,100,Seedlings,Seedlings,ad,ad,ad,960,960,NA,1,32,36,4,N,"Rochester, NY, USA",N,NA,NA,,,,its file had wrong birthday so was processed as 10 days older than is true
-883,923,WAR,0340_000301,http://media.talkbank.org/HomeBank/Password/Warlaumont/0340/0wav/0340_000301.wav,9755,,,Y_SODcoding,lena,3,F,English,100,Warlaumont,Warlaumont,cd,BA,NA,687,687,NA,1,33,32,,N,"Central Valley, California",N,NA,"Total household annual income Greater than $100,000. Biological Mother has Bachelor's degree",N,Y*,18*,
-887,927,WAR,0530_000614,http://media.talkbank.org/HomeBank/Password/Warlaumont/0530/0wav/0530_000614.wav,2337,,,Y_SODcoding,lena,6,F,English_Spanish,"mostly spanish, eng 6hr/day",Warlaumont,Warlaumont,hs,HS,HS,861,860.9,NA,1,30,32,,N,"Central Valley, California",N,NA,"Total household annual income $20,000–$29,999. Biological father is high school graduate or has GED. Biological mother is high school graduate or has GED.",N,Y*,18*,
-896,936,WAR,0651_000908,http://media.talkbank.org/HomeBank/Password/Warlaumont/0651/0wav/0651_000908.wav,5959,,,Y_BERcoding,lena,9,M,English,100,Warlaumont,Warlaumont,ad,AD,AD,960,960,NA,0,31,30,,N,"Central Valley, California",N,NA,"Total household income: Greater than $100,000. Biological mother's education: Master's Degree. Biological father's education: Doctorate Degree.",N,Y*,18*,
+﻿aclew_id,labname,device,age_mo_round,child_sex,language,lang_percent,corpus,std_mat_ed,number_older_sibs,region
+643,TSE,olympus,2,M,Tseltal,100,CasillasTseltal,bhs,5,"Tenejapa, Chiapas, MX"
+8787,TSE,olympus,11,M,Tseltal,100,CasillasTseltal,bhs,1,"Tenejapa, Chiapas, MX"
+2625,TSE,olympus,32,F,Tseltal,100,CasillasTseltal,bhs,1,"Tenejapa, Chiapas, MX"
+9733,SOD,lena,12,M,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+5223,SOD,lena,11,M,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+8560,SOD,lena,10,F,English,100,Winnipeg,bhs,0,"Winnipeg, Manitoba, Canada"
+8340,ROS,voice,17,F,Spanish,100,Conicet Argentina,hs,0,"Quilmes, Metropolitan Area of Buenos Aires, ARG"
+9559,ROS,olympus,15,F,Spanish,100,Conicet Argentina,hs,0,"Derqui, Metropolitan Area of Buenos Aires, ARG"
+5271,ROS,lena,20,M,Spanish,100,Conicet Argentina,ad,1,"CABA, ARG"
+3628,ROW,lena,19,F,British English,100,LuCiD_Lang05,sc,2,Northwest England
+2811,ROW,lena,12,F,British English,100,LuCiD_Lang05,sc,1,Northwest England
+49,ROW,lena,25,M,British English,100,LuCiD_Lang05,cd,1,Northwest England
+713,BER,lena,7,M,English_German_Spanish,>75 English,Seedlings,ad,0,"Rochester, NY, USA"
+485,BER,lena,12,M,English,100,Seedlings,sc,0,"Rochester, NY, USA"
+2224,BER,lena,16,F,English,100,Seedlings,ad,1,"Rochester, NY, USA"
+9755,WAR,lena,3,F,English,100,Warlaumont,cd,1,"Central Valley, California"
+2337,WAR,lena,6,F,English_Spanish,"mostly spanish, eng 6hr/day",Warlaumont,hs,1,"Central Valley, California"
+5959,WAR,lena,9,M,English,100,Warlaumont,ad,0,"Central Valley, California"
